@@ -13,3 +13,6 @@ https://github.com/user-attachments/assets/6c6f9bdb-f536-44c1-b38e-aa662614fec1 
 
 
 ![kitap](https://github.com/user-attachments/assets/02480ea6-2986-4d41-82ba-b44c9c75a1ab) --> kitap.jpg
+![ronaldo](https://github.com/user-attachments/assets/ce7881ef-c054-405d-bccb-9ae81bffe551) --> ronaldo.jpeg
+![satranc](https://github.com/user-attachments/assets/f23c4bf6-5feb-4505-ac60-33ae90aba85b) --> satranc.jpg
+![barkod](https://github.com/user-attachments/assets/ab1daa67-fda8-4b2f-8ccf-b0e2435edbed) --> barkod.jpg
